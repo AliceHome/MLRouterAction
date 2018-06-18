@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MLRouterAction_Example' do
+  pod 'MLRouterAction', :path => '../'
+
+  target 'MLRouterAction_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
