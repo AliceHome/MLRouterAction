@@ -1,0 +1,16 @@
+PODS:
+  - MLRouterAction (0.1.0)
+
+DEPENDENCIES:
+  - MLRouterAction (from `../`)
+
+EXTERNAL SOURCES:
+  MLRouterAction:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MLRouterAction: b38a429cba833557775e4cdf89e79dad1b8ec9f5
+
+PODFILE CHECKSUM: 46571663287e200d5abdd0a54e80c98ac389c2d4
+
+COCOAPODS: 1.5.3

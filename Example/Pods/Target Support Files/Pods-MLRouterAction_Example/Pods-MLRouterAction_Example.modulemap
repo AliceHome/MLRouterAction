@@ -1,0 +1,6 @@
+framework module Pods_MLRouterAction_Example {
+  umbrella header "Pods-MLRouterAction_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
